@@ -1,5 +1,6 @@
 # FedDLoRA：基于双LoRA与蒸馏正则的个性化联邦微调框架
-![Alt text](image.png)
+<img width="620" height="473" alt="image" src="https://github.com/user-attachments/assets/4ea8a70f-1e9c-4666-9f41-e7cd5ff413a5" />
+
 
 ## Requirments
 该代码需要一些依赖项（Python 版本≥3.8），详情见requirements.txt文件中的说明。请按照相关库的说明进行安装或运行操作：
